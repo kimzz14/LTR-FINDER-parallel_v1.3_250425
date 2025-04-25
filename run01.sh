@@ -1,1 +1,1 @@
-./pipe/LTR_FINDER_parallel.sh 128 genome.fa
+./pipe/LTR_FINDER_parallel.sh 128 ref.fa
